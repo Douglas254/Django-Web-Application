@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8f8c200a-8f0a-49cb-b0dc-7d2966b3ef23" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMOPROJECT/DEMOPROJECT/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEMOPROJECT/DEMOPROJECT/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DEMOPROJECT/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/DEMOPROJECT/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMOPROJECT/genre/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEMOPROJECT/genre/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMOPROJECT/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEMOPROJECT/webapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,9 +49,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/django-chat" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -85,5 +91,9 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="580" y="205" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1598423357158" />
+    <state x="301" y="95" key="SettingsEditor" timestamp="1599581648586">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="95" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1599581648586" />
   </component>
 </project>
